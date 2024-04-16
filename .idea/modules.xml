@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EstadisticaDescriptiva/EstadisticaDescriptiva.iml" filepath="$PROJECT_DIR$/EstadisticaDescriptiva/EstadisticaDescriptiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PLR/PLR.iml" filepath="$PROJECT_DIR$/PLR/PLR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Probabilidad y estadistica.iml" filepath="$PROJECT_DIR$/.idea/Probabilidad y estadistica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QLR/QLR.iml" filepath="$PROJECT_DIR$/QLR/QLR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SLR/SLR.iml" filepath="$PROJECT_DIR$/SLR/SLR.iml" />
+    </modules>
+  </component>
+</project>
